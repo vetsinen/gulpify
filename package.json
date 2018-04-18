@@ -1,0 +1,23 @@
+{
+  "name": "gulpify",
+  "version": "1.0.0",
+  "description": "project for gulp experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vetsinen/gulpify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vetsinen/gulpify/issues"
+  },
+  "homepage": "https://github.com/vetsinen/gulpify#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0"
+  }
+}
